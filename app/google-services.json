@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777125454094",
+    "firebase_url": "https://self-78ddb.firebaseio.com",
+    "project_id": "self-78ddb",
+    "storage_bucket": "self-78ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777125454094:android:9c602ef989e4e4dab8b75f",
+        "android_client_info": {
+          "package_name": "com.osloutvikler.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777125454094-1iecjcdf63tu6mraulpeng4jom1g5vjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_y4pOKHHYTsi9tSJpMUsorVp9TkeMS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777125454094-1iecjcdf63tu6mraulpeng4jom1g5vjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
